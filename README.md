@@ -29,9 +29,9 @@ If you miss a presentation don't worry - the YouTube link of the uploaded record
 | Date | Time (CEST) | Title | Presenter | Links |
 |---|---|---|---|---|
 | Tue, 23.08.2022 | 06:00 PM | **Welcome & Introduction** | [@marc0olo](https://github.com/marc0olo) | [Video](https://www.youtube.com/watch?v=1izTRy_dr0I), [Slides](./slides/20220823-UniverseTwoHackathon-Welcome_Intro.pdf) |
-| Wed, 24.08.2022 | 06:00 PM | **Code, test and deploy Smart Contracts using AEProject** | [@thepiwo](https://github.com/thepiwo) | coming soon |
-| Wed, 24.08.2022 | 06:45 PM | **Full power of Sophia with REPL** | [@radrow](https://github.com/radrow) | coming soon |
-| Wed, 24.08.2022 | 07:30 PM | **Create Fungible Tokens in 3 easy steps using AEX-9** | [@thepiwo](https://github.com/thepiwo) | coming soon |
+| Wed, 24.08.2022 | 06:00 PM | **Code, test and deploy Smart Contracts using AEProject** | [@thepiwo](https://github.com/thepiwo) | [Video](https://www.youtube.com/watch?v=IbsRU2PhNoc), [Slides](./slides/20220824-UniverseTwoHackathon-AEproject.pdf) |
+| Wed, 24.08.2022 | 06:45 PM | **Full power of Sophia with REPL** | [@radrow](https://github.com/radrow) | [Video](https://www.youtube.com/watch?v=YpRHHY24O4I) |
+| Wed, 24.08.2022 | 07:30 PM | **Create Fungible Tokens in 3 easy steps using AEX-9** | [@thepiwo](https://github.com/thepiwo) | [Video](https://www.youtube.com/watch?v=-_NdKiRG_yk), [Slides](./slides/20220824-UniverseTwoHackathon-AEX-9.pdf) |
 | Fr, 26.08.2022 | 06:00 PM | **Superhero DEX: How to add liquidity for your preferred token** | [@kenodressel](https://github.com/kenodressel) | coming soon |
 | Fr, 26.08.2022 | 06:00 PM | **How to make an NFT on æternity blockchain using AEX-141** | [@marc0olo](https://github.com/marc0olo) | coming soon |
 | Fr, 26.08.2022 | 06:00 PM | **Create your dApp with our Web3 Starter-Kit** | [@ifaouibadi](https://github.com/ifaouibadi) | coming soon |
