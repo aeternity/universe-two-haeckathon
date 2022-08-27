@@ -8,6 +8,19 @@ The Hæckathon is hosted via DevPost and you can sign up here:
 If your team or somebody of your team wants to join the Hæckathon Finale on-site at the [CryptoCastle](https://www.cryptocastle.org) let us know as soon as possible and sign up with this form:
 - http://eepurl.com/h802sT (*open until **04.09.2022***)
 
+# Prizes
+
+All prizes will be payed out in Æ coins.
+
+| Type | Prize |
+|---|---|
+| **1st place** | **$15,000** |
+| 2nd place | $8,000 |
+| 3rd place | $5,000 |
+| Community Choice Award | $2,500 |
+| | |
+| Total | $30,500 |
+
 # Timeline
 
 ## General
