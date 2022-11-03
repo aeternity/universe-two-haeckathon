@@ -1,22 +1,18 @@
 
 ![Æternity Universe Two Hæckathon](./images/haeckathon_banner.png)
 
-# Sign up now!
-The Hæckathon is hosted via DevPost and you can sign up here:
-- https://universe-two-haeckathon.devpost.com
-
 # Prizes
 
 All prizes will be payed out in Æ coins.
 
-| Type | Prize |
-|---|---|
-| **1st place** | **$15,000** |
-| 2nd place | $8,000 |
-| 3rd place | $5,000 |
-| Community Choice Award | $2,500 |
-| | |
-| Total | $30,500 |
+| Type | Prize | Winner | Payout |
+|---|---|---|---|
+| **1st place** | **$15,000** | [GalacticWar](https://devpost.com/software/galacticwar-xdur2t) | [th_2dM3zSvDewX7cfSb8arnRXJKoH1Pxgd182up4fyeCWoUVpriv6](https://explorer.aeternity.io/transactions/th_2dM3zSvDewX7cfSb8arnRXJKoH1Pxgd182up4fyeCWoUVpriv6) |
+| 2nd place | $8,000 | [Nuclearswap](https://devpost.com/software/nuclearswp) | [th_U5zRGTB1RxA52rZyn9yZjwdk5qvVhsKjN22C7XiCWxAg1KoGG](https://explorer.aeternity.io/transactions/th_U5zRGTB1RxA52rZyn9yZjwdk5qvVhsKjN22C7XiCWxAg1KoGG) |
+| 3rd place | $5,000 | [DeMarketly](https://devpost.com/software/paydii-865dmb) | [th_ubVZff3bW22bfBttxzpS2ShQYCpRW9qs17vhcu5Xu4UH7BnJq](https://explorer.aeternity.io/transactions/th_ubVZff3bW22bfBttxzpS2ShQYCpRW9qs17vhcu5Xu4UH7BnJq) |
+| Community Choice Award | $2,500 | [defi æternity](https://devpost.com/software/defi-aeternity) | [th_fYcdYDdQcV3K6FjY7CB3dPYuAa2w9M2jVQDcPcna7VZMMaoqf](https://explorer.aeternity.io/transactions/th_fYcdYDdQcV3K6FjY7CB3dPYuAa2w9M2jVQDcPcna7VZMMaoqf) |
+| | | | |
+| Total | $30,500 | | |
 
 # Timeline
 
@@ -48,3 +44,9 @@ Following presentations have been organized. You can also access the whole playl
 # Questions?
 
 Join our [Discord](https://discord.gg/55f8F2jZq4) server and get in touch with the developers!
+
+# Thank you!
+The Hæckathon was hosted via DevPost. You can explore all details here:
+- https://universe-two-haeckathon.devpost.com
+
+![Æternity Universe Two Hæckathon](./images/thankyou.png)
