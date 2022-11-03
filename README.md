@@ -3,7 +3,7 @@
 
 # Prizes
 
-All prizes will be payed out in Æ coins.
+All prizes are paid in Æ coins.
 
 | Type | Prize | Winner | Payout |
 |---|---|---|---|
